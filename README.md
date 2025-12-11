@@ -1,3 +1,23 @@
+---
+
+<p align="center">
+
+  <!-- Tech Stack -->
+  <img src="https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.0-green?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/JPA-Jakarta-orange?style=for-the-badge&logo=hibernate" />
+  <img src="https://img.shields.io/badge/IntelliJ-IDEA-blue?style=for-the-badge&logo=intellijidea" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black?style=for-the-badge&logo=github" />
+
+  <!-- Forage Badge -->
+  <img src="https://img.shields.io/badge/Forage-Job%20Simulation-purple?style=for-the-badge&logo=briefcase" />
+
+</p>
+
+---
+
 # Wells Fargo Software Engineering Job Simulation
 
 This repository contains my completed work for the **Wells Fargo Software Engineering Virtual Job Simulation** hosted on **Forage**.  
